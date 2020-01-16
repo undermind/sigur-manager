@@ -1,0 +1,4 @@
+<?php
+    $auth_string = "LOGIN 1.8 user password";
+    $dsn = '127.0.0.1:3312';
+?>
